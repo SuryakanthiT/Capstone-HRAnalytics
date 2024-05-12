@@ -1,4 +1,4 @@
-# Capstone-HRAnalytics
+# Capstone-HR Analytics
 # Introduction : Employee Retention
 
 Employee retention is the biggest challenge of many organisations. Employee retention is a phenomenon where employees choose to stay on with their current company and don’t actively seek other job prospects. Employees leave the organisation for a variety of reasons. The HR department of a software company wants to ensure that its employees do not quit their jobs.
